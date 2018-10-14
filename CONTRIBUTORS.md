@@ -67,3 +67,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Machine learning enthusiast.
  - GitHub: [insiyaa](https://github.com/Insiyaa) 
+ 
+ #### Name: [Khatri Yash](https://github.com/yashraj143)
+ - Place: Surat,Gujarat,India
+ - Bio: Web Developer,2-bit Programmer.
+ - GitHub:[yashraj143](https://github.com/yashraj143)
